@@ -1,0 +1,6 @@
+{
+  "name": "KPTC Kuwait",
+  "description": "Independent Kuwait public transit companion preview with bus routes, illustrative timings, and tracking integration status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

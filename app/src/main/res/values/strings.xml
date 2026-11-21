@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">KPTC Kuwait</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_routes">Routes</string>
+    <string name="nav_timings">Timings</string>
+    <string name="nav_track">Track</string>
+
+    <!-- Header -->
+    <string name="brand_title">KPTC Kuwait</string>
+    <string name="header_subtitle_home">KUWAIT PUBLIC TRANSPORT</string>
+    <string name="header_subtitle_routes">BUS ROUTES</string>
+    <string name="header_subtitle_timings">BUS TIMINGS</string>
+    <string name="header_subtitle_track">BUS TRACKING</string>
+    <string name="preview_pill">PREVIEW</string>
+
+    <!-- Home Screen -->
+    <string name="home_headline">Move around Kuwait</string>
+    <string name="home_subheadline">Find routes, check bus times and follow your journey.</string>
+    <string name="home_hero_cd">Illustration of a modern Kuwait public transit bus along the coastal boulevard with Kuwait Towers</string>
+    <string name="home_section_prompt">What do you need today?</string>
+    <string name="home_action_routes_title">Find bus routes</string>
+    <string name="home_action_routes_desc">Explore routes and destinations</string>
+    <string name="home_action_timings_title">Bus timings</string>
+    <string name="home_action_timings_desc">Check planned departure times</string>
+    <string name="home_action_track_title">Track a bus</string>
+    <string name="home_action_track_desc">Live tracking when official data is connected</string>
+    <string name="home_featured_title">Sample corridors</string>
+    <string name="home_view_all">View all</string>
+    <string name="preview_notice_title">Development preview</string>
+    <string name="preview_notice_body">Independent prototype using sample route information. Official KPTC schedules and live vehicle locations are not connected yet.</string>
+
+    <!-- Routes Screen -->
+    <string name="routes_title">Explore bus routes</string>
+    <string name="routes_search_placeholder">Search route or destination</string>
+    <string name="routes_clear_search_cd">Clear search</string>
+    <string name="routes_filter_all">All</string>
+    <string name="routes_filter_airport">Airport</string>
+    <string name="routes_filter_city">City</string>
+    <string name="routes_filter_coastal">Coastal</string>
+    <string name="routes_empty_title">No matching routes</string>
+    <string name="routes_empty_body">Try another route number, stop, or reset the active filter.</string>
+    <string name="routes_reset_filters">Reset filters</string>
+    <string name="routes_sample_tag">Sample data</string>
+    <string name="routes_tap_hint">Tap for corridor stops</string>
+
+    <!-- Route Detail Sheet -->
+    <string name="detail_corridor_stops">Illustrative corridor stops</string>
+    <string name="detail_reverse_direction">Reverse direction</string>
+    <string name="detail_disclaimer">Illustrative prototype route details only. Verify active stops and headways with official KPTC announcements before travel.</string>
+    <string name="detail_close">Close</string>
+
+    <!-- Timings Screen -->
+    <string name="timings_title">Plan your journey</string>
+    <string name="timings_subtitle">Choose a route to view its illustrative timetable preview.</string>
+    <string name="timings_view_action">View</string>
+    <string name="timings_footer_note">Exact departure times will be added after an official KPTC timetable source is connected.</string>
+    <string name="timings_sheet_title">Route %1$s Timetable</string>
+    <string name="timings_sheet_banner">Illustrative departure windows only — not an official KPTC schedule.</string>
+
+    <!-- Track Screen -->
+    <string name="track_title">Track your bus</string>
+    <string name="track_subtitle">Live vehicle location is not connected in this preview.</string>
+    <string name="track_map_cd">Stylized map of Kuwait City coastline and public transit corridors</string>
+    <string name="track_status_badge">Feed Disconnected</string>
+    <string name="track_placeholder_title">Live map placeholder</string>
+    <string name="track_placeholder_body">Connect an authorized KPTC GPS/API feed to display active buses along %1$s.</string>
+    <string name="track_corridor_label">Inspect corridor overlay</string>
+    <string name="track_integration_title">Real-time feed status</string>
+    <string name="track_integration_body">Vehicle positions and arrival predictions are intentionally disabled until an approved real-time transit data source is linked.</string>
+</resources>
